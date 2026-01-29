@@ -1,4 +1,4 @@
--- id курьеров и годы рождения из couriers; 
+-- Задача 10 (урок 3, karpov.courses SQL):id курьеров и годы рождения из couriers; 
 -- birth_year из birth_date; ORDER BY birth_year DESC, courier_id ASC
 
 SELECT courier_id,
