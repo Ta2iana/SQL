@@ -1,4 +1,4 @@
--- Товар с самым длинным названием (LENGTH + ORDER BY + LIMIT)
+-- Задача 6 (урок 3, karpov.courses SQL):Товар с самым длинным названием (LENGTH + ORDER BY + LIMIT)
 -- Результат: name, name_length, price
 
 SELECT name ,
