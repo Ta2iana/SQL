@@ -1,4 +1,4 @@
--- Задача 11 (урок 3, Карпов курсы SQL): COALESCE для birth_year с NULL -> 'unknown'
+-- Задача 11 (урок 3, karpov.courses SQL):Задача 11 (урок 3, Карпов курсы SQL): COALESCE для birth_year с NULL -> 'unknown'
 -- id курьеров + birth_year из couriers (COALESCE + date_part::text)
 
 SELECT courier_id,
